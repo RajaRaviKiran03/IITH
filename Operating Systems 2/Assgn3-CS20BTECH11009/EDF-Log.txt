@@ -1,0 +1,206 @@
+Process P1 : processing time: 15 , deadline : 40 , period: 40 joined at time 0
+Process P2 : processing time: 10 , deadline : 50 , period: 50 joined at time 0
+Process P3 : processing time: 25 , deadline : 100 , period: 100 joined at time 0
+Process P4 : processing time: 20 , deadline : 100 , period: 100 joined at time 0
+Process P5 : processing time: 25 , deadline : 250 , period: 250 joined at time 0
+Process P6 : processing time: 35 , deadline : 250 , period: 250 joined at time 0
+Process P7 : processing time: 30 , deadline : 300 , period: 300 joined at time 0
+Process P8 : processing time: 35 , deadline : 320 , period: 320 joined at time 0
+Process P9 : processing time: 45 , deadline : 450 , period: 450 joined at time 0
+Process P10 : processing time: 40 , deadline : 400 , period: 400 joined at time 0
+Process P1 has completed at time 14
+Process P2 is started at time 15
+Process P2 has completed at time 24
+Process P3 is started at time 25
+Process P3 is preempted by process 1 at time 40
+Process P1 has completed at time 54
+Process P2 is started at time 55
+Process P2 has completed at time 64
+Process P3 is started at time 65
+Process P3 has completed at time 74
+Process P4 is started at time 75
+Process P4 has completed at time 94
+Process P1 is started at time 95
+Process P1 has completed at time 109
+Process P2 is started at time 110
+Process P2 has completed at time 119
+Process P1 is started at time 120
+Process P1 has completed at time 134
+Process P3 is started at time 135
+Process P3 is preempted by process 2 at time 150
+Process P2 has completed at time 159
+Process P1 is started at time 160
+Process P1 has completed at time 174
+Process P3 is started at time 175
+Process P3 has completed at time 184
+Process P4 is started at time 185
+Process P4 has missed deadline at time 200
+Process P1 is started at time 201
+Process P1 has completed at time 215
+Process P2 is started at time 216
+Process P2 has completed at time 225
+Process P5 is started at time 226
+Process P5 has missed deadline at time 250
+Process P6 is started at time 251
+Process P6 has missed deadline at time 251
+Process P1 is started at time 252
+Process P1 has completed at time 266
+Process P2 is started at time 267
+Process P2 has completed at time 276
+Process P3 is started at time 277
+Process P3 has missed deadline at time 300
+Process P4 is started at time 301
+Process P4 has missed deadline at time 301
+Process P7 is started at time 302
+Process P7 has missed deadline at time 302
+Process P1 is started at time 303
+Process P1 has completed at time 317
+Process P8 is started at time 318
+Process P8 has missed deadline at time 320
+Process P2 is started at time 321
+Process P2 has completed at time 330
+Process P1 is started at time 331
+Process P1 has completed at time 345
+Process P3 is started at time 346
+Process P3 is preempted by process 2 at time 350
+Process P2 has completed at time 359
+Process P1 is started at time 360
+Process P3 is started at time 375
+Process P3 has completed at time 397
+Process P4 is started at time 398
+Process P4 has missed deadline at time 400
+Process P10 is started at time 401
+Process P10 has missed deadline at time 401
+Process P2 is started at time 402
+Process P2 has completed at time 411
+Process P9 is started at time 412
+Process P9 has missed deadline at time 450
+Process P2 is started at time 451
+Process P3 is started at time 461
+Process P3 has completed at time 485
+Process P4 is started at time 486
+Process P4 has missed deadline at time 500
+Process P5 is started at time 501
+Process P5 has missed deadline at time 501
+Process P6 is started at time 502
+Process P6 has missed deadline at time 502
+Process P3 is started at time 503
+Process P3 has completed at time 527
+Process P4 is started at time 528
+Process P4 has completed at time 596
+Process P7 is started at time 597
+Process P7 has missed deadline at time 600
+Process P8 is started at time 601
+Process P8 has missed deadline at time 640
+Process P3 is started at time 641
+Process P3 has completed at time 665
+Process P4 is started at time 666
+Process P4 has completed at time 685
+Process P5 is started at time 686
+Process P5 has completed at time 736
+Process P6 is started at time 737
+Process P6 has missed deadline at time 750
+Process P3 is started at time 751
+Process P3 has completed at time 775
+Process P4 is started at time 776
+Process P4 has completed at time 795
+Process P10 is started at time 796
+Process P10 has missed deadline at time 800
+Process P3 is started at time 801
+Process P3 has completed at time 825
+Process P4 is started at time 826
+Process P4 has completed at time 845
+Process P7 is started at time 846
+Process P7 has missed deadline at time 900
+Process P9 is started at time 901
+Process P9 has missed deadline at time 901
+Process P8 is started at time 902
+Process P8 has missed deadline at time 960
+Process P3 is started at time 961
+Process P4 is started at time 986
+Process P4 has missed deadline at time 1000
+Process P5 is started at time 1001
+Process P5 has missed deadline at time 1001
+Process P6 is started at time 1002
+Process P6 has missed deadline at time 1002
+Process P7 is started at time 1003
+Process P7 has completed at time 1065
+Process P10 is started at time 1066
+Process P10 has completed at time 1181
+Process P5 is started at time 1182
+Process P5 has completed at time 1231
+Process P6 is started at time 1232
+Process P6 has missed deadline at time 1250
+Process P8 is started at time 1251
+Process P8 has missed deadline at time 1280
+Process P9 is started at time 1281
+Process P9 has missed deadline at time 1350
+Process P5 is started at time 1351
+Process P5 has completed at time 1375
+Process P6 is started at time 1376
+Process P6 has missed deadline at time 1500
+Process P7 is started at time 1501
+Process P7 has missed deadline at time 1501
+Process P8 is started at time 1502
+Process P8 has completed at time 1548
+Process P10 is started at time 1549
+Process P10 has completed at time 1588
+Process P5 is started at time 1589
+Process P5 has completed at time 1613
+Process P6 is started at time 1614
+Process P6 has completed at time 1703
+Process P7 is started at time 1704
+Process P7 has completed at time 1763
+Process P9 is started at time 1764
+Process P9 has missed deadline at time 1800
+Process P8 is started at time 1801
+Process P8 has completed at time 1835
+Process P5 is started at time 1836
+Process P5 has completed at time 1860
+Process P6 is started at time 1861
+Process P6 has completed at time 1895
+Process P10 is started at time 1896
+Process P10 has completed at time 1935
+Process P7 is started at time 1936
+Process P7 has completed at time 1965
+Process P8 is started at time 1966
+Process P8 has completed at time 2000
+Process P5 is started at time 2001
+Process P5 has completed at time 2025
+Process P6 is started at time 2026
+Process P6 has completed at time 2060
+Process P9 is started at time 2061
+Process P9 has completed at time 2142
+Process P7 is started at time 2143
+Process P7 has completed at time 2172
+Process P10 is started at time 2173
+Process P10 has completed at time 2212
+Cpu is idle till time 2240
+Process P8 is preempted by process 5 at time 2250
+Process P6 is started at time 2275
+Process P8 is started at time 2310
+Process P8 has completed at time 2334
+Process P9 is started at time 2335
+Process P9 has completed at time 2379
+Cpu is idle till time 2400
+Process P7 has completed at time 2429
+Process P10 is started at time 2430
+Process P10 has completed at time 2469
+Cpu is idle till time 2560
+Process P8 has completed at time 2594
+Cpu is idle till time 2700
+Process P9 is started at time 2730
+Process P9 has completed at time 2774
+Cpu is idle till time 2800
+Process P10 has completed at time 2839
+Cpu is idle till time 2880
+Cpu is idle till time 3150
+Process P9 has completed at time 3194
+Cpu is idle till time 3200
+Process P10 has completed at time 3239
+Cpu is idle till time 3600
+Process P9 is preempted by process 10 at time 3601
+Process P9 is started at time 3641
+Process P9 has completed at time 3684
+Cpu is idle till time 4050
+All process completed

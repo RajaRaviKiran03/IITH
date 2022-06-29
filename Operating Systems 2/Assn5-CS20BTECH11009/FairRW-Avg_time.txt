@@ -1,0 +1,24 @@
+Average waittime for Readerthread 0 is 1.6485ms
+Average waittime for Readerthread 1 is 1.7672ms
+Average waittime for Readerthread 2 is 1.5694ms
+Average waittime for Readerthread 3 is 1.6214ms
+Average waittime for Readerthread 4 is 1.7136ms
+Average waittime for Readerthread 5 is 1.6939ms
+Average waittime for Readerthread 6 is 1.6571ms
+Average waittime for Readerthread 7 is 1.7036ms
+Average waittime for Readerthread 8 is 1.7633ms
+Average waittime for Readerthread 9 is 1.6651ms
+Total avg waittime for all Readerthreads is 1.68031ms
+Max waittime for all Readerthreads  is 6.492ms
+Average waittime for Writerthread 0 is 1.6104ms
+Average waittime for Writerthread 1 is 1.6888ms
+Average waittime for Writerthread 2 is 1.3871ms
+Average waittime for Writerthread 3 is 1.6802ms
+Average waittime for Writerthread 4 is 1.6999ms
+Average waittime for Writerthread 5 is 1.6968ms
+Average waittime for Writerthread 6 is 1.5026ms
+Average waittime for Writerthread 7 is 1.6903ms
+Average waittime for Writerthread 8 is 1.7611ms
+Average waittime for Writerthread 9 is 1.6891ms
+Total avg waittime for all Writerthreads is 1.64063ms
+Max waittime for all Writerthreads  is 5.57ms

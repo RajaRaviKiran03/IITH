@@ -1,0 +1,13 @@
+Average waiting time for process P1 is 6.200000
+Average waiting time for process P2 is 8.700000
+Average waiting time for process P3 is 47.799999
+Average waiting time for process P4 is 84.900002
+Average waiting time for process P5 is 142.500000
+Average waiting time for process P6 is 214.899994
+Average waiting time for process P7 is 178.199997
+Average waiting time for process P8 is 176.100006
+Average waiting time for process P9 is 219.800003
+Average waiting time for process P10 is 202.800003
+Average waiting for all proceses is  128.190002
+No of processes completed is 71
+No of processes missed deadline is 29

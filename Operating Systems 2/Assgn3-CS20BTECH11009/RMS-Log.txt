@@ -1,0 +1,227 @@
+Process P1 : processing time: 15 , deadline : 40 , period: 40 joined at time 0
+Process P2 : processing time: 10 , deadline : 50 , period: 50 joined at time 0
+Process P3 : processing time: 25 , deadline : 100 , period: 100 joined at time 0
+Process P4 : processing time: 20 , deadline : 100 , period: 100 joined at time 0
+Process P5 : processing time: 25 , deadline : 250 , period: 250 joined at time 0
+Process P6 : processing time: 35 , deadline : 250 , period: 250 joined at time 0
+Process P7 : processing time: 30 , deadline : 300 , period: 300 joined at time 0
+Process P8 : processing time: 35 , deadline : 320 , period: 320 joined at time 0
+Process P9 : processing time: 45 , deadline : 450 , period: 450 joined at time 0
+Process P10 : processing time: 40 , deadline : 400 , period: 400 joined at time 0
+Process P1 has completed at time 14
+Process P2 is started at time 15
+Process P2 has completed at time 24
+Process P3 is started at time 25
+Process P3 is preempted by process 1 at time 40
+Process P1 has completed at time 54
+Process P2 is started at time 55
+Process P2 has completed at time 64
+Process P3 is started at time 65
+Process P3 has completed at time 74
+Process P4 is started at time 75
+Process P4 is preempted by process 1 at time 80
+Process P1 has completed at time 94
+Process P4 is started at time 95
+Process P4 is preempted by process 2 at time 100
+Process P2 has completed at time 109
+Process P3 is started at time 110
+Process P3 is preempted by process 1 at time 120
+Process P1 has completed at time 134
+Process P3 is started at time 135
+Process P3 has completed at time 149
+Process P2 is started at time 150
+Process P2 has completed at time 159
+Process P1 is started at time 160
+Process P1 has completed at time 174
+Process P4 is started at time 175
+Process P4 has missed deadline at time 175
+Process P4 is started at time 176
+Process P4 is preempted by process 1 at time 200
+Process P1 has completed at time 214
+Process P2 is started at time 215
+Process P2 has completed at time 224
+Process P3 is started at time 225
+Process P3 is preempted by process 1 at time 240
+Process P1 has completed at time 254
+Process P2 is started at time 255
+Process P2 has completed at time 264
+Process P3 is started at time 265
+Process P3 has completed at time 274
+Process P4 is started at time 275
+Process P4 has missed deadline at time 275
+Process P4 is started at time 276
+Process P4 is preempted by process 1 at time 280
+Process P1 has completed at time 294
+Process P4 is started at time 295
+Process P4 is preempted by process 2 at time 300
+Process P2 has completed at time 309
+Process P3 is started at time 310
+Process P3 is preempted by process 1 at time 320
+Process P1 has completed at time 334
+Process P3 is started at time 335
+Process P3 has completed at time 349
+Process P2 is started at time 350
+Process P2 has completed at time 359
+Process P1 is started at time 360
+Process P4 is started at time 375
+Process P4 has missed deadline at time 375
+Process P4 is started at time 376
+Process P4 is preempted by process 2 at time 400
+Process P2 has completed at time 409
+Process P3 is started at time 410
+Process P3 has completed at time 434
+Process P4 is started at time 435
+Process P4 has missed deadline at time 435
+Process P4 is started at time 436
+Process P4 is preempted by process 2 at time 450
+Process P4 is started at time 460
+Process P4 has completed at time 478
+Process P5 is started at time 479
+Process P5 has missed deadline at time 479
+Process P5 is started at time 480
+Process P5 is preempted by process 3 at time 500
+Process P3 has completed at time 524
+Process P4 is started at time 525
+Process P4 has completed at time 544
+Process P5 is started at time 545
+Process P5 has missed deadline at time 545
+Process P5 is started at time 546
+Process P5 is preempted by process 3 at time 600
+Process P3 has completed at time 624
+Process P4 is started at time 625
+Process P4 has completed at time 644
+Process P5 is started at time 645
+Process P5 has completed at time 645
+Process P6 is started at time 646
+Process P6 has missed deadline at time 646
+Process P6 is started at time 647
+Process P6 has missed deadline at time 647
+Process P6 is started at time 648
+Process P6 is preempted by process 3 at time 700
+Process P3 has completed at time 724
+Process P4 is started at time 725
+Process P4 has completed at time 744
+Process P6 is started at time 745
+Process P6 is preempted by process 5 at time 750
+Process P5 has completed at time 774
+Process P6 is started at time 775
+Process P6 has missed deadline at time 775
+Process P6 is started at time 776
+Process P6 is preempted by process 3 at time 800
+Process P3 has completed at time 824
+Process P4 is started at time 825
+Process P4 has completed at time 844
+Process P6 is started at time 845
+Process P6 is preempted by process 3 at time 900
+Process P4 is started at time 925
+Process P6 is started at time 945
+Process P6 has completed at time 948
+Process P7 is started at time 949
+Process P7 has missed deadline at time 949
+Process P7 is started at time 950
+Process P7 has missed deadline at time 950
+Process P7 is started at time 951
+Process P7 has missed deadline at time 951
+Process P7 is started at time 952
+Process P7 is preempted by process 5 at time 1000
+Process P5 has completed at time 1024
+Process P6 is started at time 1025
+Process P6 has completed at time 1059
+Process P7 is started at time 1060
+Process P7 has completed at time 1131
+Process P8 is started at time 1132
+Process P8 has missed deadline at time 1132
+Process P8 is started at time 1133
+Process P8 has missed deadline at time 1133
+Process P8 is started at time 1134
+Process P8 has missed deadline at time 1134
+Process P8 is started at time 1135
+Process P8 is preempted by process 7 at time 1200
+Process P7 has completed at time 1229
+Process P8 is started at time 1230
+Process P8 is preempted by process 5 at time 1250
+Process P5 has completed at time 1274
+Process P6 is started at time 1275
+Process P6 has completed at time 1309
+Process P8 is started at time 1310
+Process P8 has missed deadline at time 1310
+Process P8 is started at time 1311
+Process P8 has completed at time 1400
+Process P10 is started at time 1401
+Process P10 has missed deadline at time 1401
+Process P10 is started at time 1402
+Process P10 has missed deadline at time 1402
+Process P10 is started at time 1403
+Process P10 has missed deadline at time 1403
+Process P10 is started at time 1404
+Process P10 is preempted by process 5 at time 1500
+Process P5 has completed at time 1524
+Process P6 is started at time 1525
+Process P6 has completed at time 1559
+Process P7 is started at time 1560
+Process P7 has completed at time 1589
+Process P10 is started at time 1590
+Process P10 is preempted by process 8 at time 1600
+Process P8 has completed at time 1634
+Process P10 is started at time 1635
+Process P10 has missed deadline at time 1635
+Process P10 is started at time 1636
+Process P10 has completed at time 1729
+Process P9 is started at time 1730
+Process P9 has missed deadline at time 1730
+Process P9 is started at time 1731
+Process P9 has missed deadline at time 1731
+Process P9 is started at time 1732
+Process P9 has missed deadline at time 1732
+Process P9 is started at time 1733
+Process P9 is preempted by process 5 at time 1750
+Process P5 has completed at time 1774
+Process P6 is started at time 1775
+Process P6 has completed at time 1809
+Process P7 is started at time 1810
+Process P7 has completed at time 1839
+Process P9 is started at time 1840
+Process P9 has missed deadline at time 1840
+Process P9 is started at time 1841
+Process P9 is preempted by process 8 at time 1920
+Process P8 has completed at time 1954
+Process P9 is started at time 1955
+Process P9 is preempted by process 5 at time 2000
+Process P5 has completed at time 2024
+Process P6 is started at time 2025
+Process P6 has completed at time 2059
+Process P10 is started at time 2060
+Process P10 has completed at time 2099
+Process P7 is started at time 2100
+Process P7 has completed at time 2129
+Process P9 is started at time 2130
+Process P9 has completed at time 2213
+Cpu is idle till time 2240
+Process P8 is preempted by process 5 at time 2250
+Process P6 is started at time 2275
+Process P8 is started at time 2310
+Process P8 has completed at time 2334
+Process P9 is started at time 2335
+Process P9 has completed at time 2379
+Cpu is idle till time 2400
+Process P7 has completed at time 2429
+Process P10 is started at time 2430
+Process P10 has completed at time 2469
+Cpu is idle till time 2560
+Process P8 has completed at time 2594
+Cpu is idle till time 2700
+Process P9 is started at time 2730
+Process P9 has completed at time 2774
+Cpu is idle till time 2800
+Process P10 has completed at time 2839
+Cpu is idle till time 2880
+Cpu is idle till time 3150
+Process P9 has completed at time 3194
+Cpu is idle till time 3200
+Process P10 has completed at time 3239
+Cpu is idle till time 3600
+Process P9 is preempted by process 10 at time 3601
+Process P9 is started at time 3641
+Process P9 has completed at time 3684
+Cpu is idle till time 4050
+All process completed
