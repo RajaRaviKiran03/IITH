@@ -1,0 +1,16 @@
+HAND CRICKET
+
+
+Project files:
+1. handcricket.py ---[The entire code of the game is in here]
+2. web.txt ---[This text file is used to read and the computer chooses a random integer from the file.]
+3. toss.py ---[It is a python file that has the function which has been imported to the code]
+4. handcricket.txt ---[A text file which has the information about files used in this project]
+
+
+
+Sample input:
+1. Enter the number : (Enter an integer in 1-10)
+2. Choose the toss : (type odd or even)
+3. If you'd won the toss then type 'bat' or 'bowl'
+
